@@ -4,3 +4,5 @@ If the link above doesn't work, please download the jar file named as ```[GUI] D
 
 <h3>Introduction</h3>
 This is a simple app to scan through all the files in a given directory, then list out all the duplicate files according to their MD5 hash values.
+
+![Alt text](/sample.png?raw=true "Screenshot")
